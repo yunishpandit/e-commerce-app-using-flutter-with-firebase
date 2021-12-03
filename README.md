@@ -1,8 +1,10 @@
-# shopping
+# -commerce-app-using-flutter-with-firebase
 
 A new Flutter project.
 
 ## Getting Started
+#flutter pub get
+#flutter run
 
 This project is a starting point for a Flutter application.
 
