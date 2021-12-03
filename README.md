@@ -1,4 +1,4 @@
-# -commerce-app-using-flutter-with-firebase
+# E-commerce-app-using-flutter-with-firebase
 
 A new Flutter project.
 
